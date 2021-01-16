@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "0e973e7a-2bfb-4319-8466-80aee4175fb7",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "airplane": {
+      "ver": "1.0.4",
+      "uuid": "6507693a-69aa-49cf-8067-78fb0a8359b9",
+      "rawTextureUuid": "0e973e7a-2bfb-4319-8466-80aee4175fb7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -41.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 937,
+      "height": 1019,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
+      "displayName": "airplane",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a"
+  }
+}

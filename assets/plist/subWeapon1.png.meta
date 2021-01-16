@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "0e4738c2-6508-46d6-beea-8efa30e3a735",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "subWeapon1": {
+      "ver": "1.0.4",
+      "uuid": "61043e50-267d-40ed-90a6-be67d3bac355",
+      "rawTextureUuid": "0e4738c2-6508-46d6-beea-8efa30e3a735",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -99,
+      "offsetY": 9.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 310,
+      "height": 489,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "0e4738c2-6508-46d6-beea-8efa30e3a735@6c48a",
+      "displayName": "subWeapon1",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e4738c2-6508-46d6-beea-8efa30e3a735"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "0e4738c2-6508-46d6-beea-8efa30e3a735@6c48a"
+  }
+}

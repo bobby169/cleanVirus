@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "gun": {
+      "ver": "1.0.4",
+      "uuid": "0fb5ca34-accc-44d1-8f20-aa8c82c1dd50",
+      "rawTextureUuid": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9.5,
+      "offsetY": 61,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 233,
+      "height": 386,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b@6c48a",
+      "displayName": "gun",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b@6c48a"
+  }
+}
