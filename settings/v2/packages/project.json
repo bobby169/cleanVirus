@@ -1,0 +1,9 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 900,
+      "height": 1600
+    }
+  }
+}
