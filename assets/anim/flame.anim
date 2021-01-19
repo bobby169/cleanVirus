@@ -1,0 +1,72 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "flame",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 8,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 1,
+    "_keys": [
+      [
+        0,
+        0.125,
+        0.25,
+        0.375,
+        0.5,
+        0.625,
+        0.75,
+        0.875
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@b4b53"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@60db0"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@788e9"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@cc4c0"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@86e00"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@e9201"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@fd128"
+            },
+            {
+              "__uuid__": "345db741-5fa0-4ae4-8321-5fff966f96c5@2b89e"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 132616577
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]
