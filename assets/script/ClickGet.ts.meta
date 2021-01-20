@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6be7c323-bd52-4229-84ff-99c63de8035c",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/ClickGet.js",
+    "importerSettings": 7
+  }
+}

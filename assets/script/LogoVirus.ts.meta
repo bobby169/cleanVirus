@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "767db6a4-fd05-4b9a-a3ff-296003f15295",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/LogoVirus.js",
+    "importerSettings": 7
+  }
+}
