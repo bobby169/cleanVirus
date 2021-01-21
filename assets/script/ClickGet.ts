@@ -1,11 +1,5 @@
-import { _decorator, Component, Node, Label, ProgressBar, Prefab, NodePool, instantiate, find, tween, Vec3, randomRangeInt} from 'cc';
+import { _decorator, Component, Node, Label, ProgressBar, Prefab, NodePool, instantiate, find, tween, Vec3, Vec2, randomRangeInt} from 'cc';
 const { ccclass, property } = _decorator;
-
-const distance = (p1: Vec3, p2: Vec3) => {
-    const dx = Math.abs(p2.x - p1.x);
-    const dy = Math.abs(p2.y - p1.y);
-    return Math.sqrt(Math.pow(dx,2) + Math.pow(dy,2));
-}
 
 @ccclass('ClickGet')
 export class ClickGet extends Component {
@@ -40,8 +34,8 @@ export class ClickGet extends Component {
         }
 
         randArr.sort((a, b) => {
-            const disA = distance(a.randPos, coinPos)
-            const disB = distance(b.randPos, coinPos)
+            const disA = Vec2.distance(a.randPos, coinPos)
+            const disB = Vec2.distance(b.randPos, coinPos)
             return disA - disB
         })
 
