@@ -1,9 +1,24 @@
-import { _decorator, Component, Node, Label, ProgressBar, Prefab, NodePool, instantiate, find, tween, Vec3, Vec2, randomRangeInt} from 'cc';
-const { ccclass, property } = _decorator;
+import {
+    _decorator,
+    Component,
+    Node,
+    Label,
+    ProgressBar,
+    Prefab,
+    NodePool,
+    instantiate,
+    find,
+    tween,
+    Vec3,
+    Vec2,
+    randomRangeInt
+} from 'cc';
+
+const {ccclass, property} = _decorator;
 
 @ccclass('ClickGet')
 export class ClickGet extends Component {
-    @property({ type: Label })
+    @property({type: Label})
     private m_labelGold = null
     @property({type: ProgressBar})
     public m_progress = null
@@ -13,20 +28,20 @@ export class ClickGet extends Component {
 
     goldPool: NodePool = new NodePool()
 
-    start () {
+    start() {
         // Your initialization goes here.
         console.info(this.m_labelGold)
         console.info(this.m_progress)
     }
 
-    onClick () {
+    onClick() {
         const pos = this.node.getPosition()
         const parent = find('Canvas/Mask') as Node
         const coin = find('Canvas/Mask/Top/coin') as Node
         const points = this.createCirclePoints(200, pos.x, pos.y, 15)
         const randArr = []
         const coinPos = coin.getPosition()
-        for (let i=0; i< points.length; i++) {
+        for (let i = 0; i < points.length; i++) {
             let gold = this.createGold(parent) as Node
             const randPos: Vec3 = new Vec3(points[i].x + randomRangeInt(0, 50), points[i].y + randomRangeInt(0, 50), 0)
             gold.setPosition(randPos.x, randPos.y, 0)
@@ -43,12 +58,12 @@ export class ClickGet extends Component {
             const gold = randArr[j].gold
             tween(gold)
                 .delay(j * 0.03)
-                .to(1, { position: coinPos})
+                .to(1, {position: coinPos})
                 .start()
         }
     }
 
-    createCirclePoints(r:number, ox: number = 0, oy: number = 0, count: number = 10) {
+    createCirclePoints(r: number, ox: number = 0, oy: number = 0, count: number = 10) {
         const points = []
         const rad = Math.PI / 180 * Math.round(360 / count)
         for (let i = 0; i < count; i++) {
@@ -59,7 +74,7 @@ export class ClickGet extends Component {
         return points
     }
 
-    createGold (parentNode: Node) {
+    createGold(parentNode: Node) {
         let prefab: Node | null = null
         if (this.goldPool.size() > 0) {
             prefab = this.goldPool.get()
