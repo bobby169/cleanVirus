@@ -59,6 +59,9 @@ export class ClickGet extends Component {
             tween(gold)
                 .delay(j * 0.03)
                 .to(1, {position: coinPos})
+                .call(() => {
+                    this.goldPool.put(gold)
+                })
                 .start()
         }
     }
