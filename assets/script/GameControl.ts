@@ -8,8 +8,16 @@ export class GameControl extends Component {
     @type(Node)
     airPlane = null
 
+    @type(Node)
+    touchControl = null
+
     onLoad () {
         globalThis.GameControl = this
+        this.touchControl.active = false
+
+        this.scheduleOnce(() => {
+           this.touchControl.active = true
+        }, 1.5)
     }
 
     start() {
