@@ -32,9 +32,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -61,7 +62,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jb2.png": {
       "ver": "1.0.4",
@@ -83,7 +91,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jb3.png": {
       "ver": "1.0.4",
@@ -105,7 +120,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jb4.png": {
       "ver": "1.0.4",
@@ -127,7 +149,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jb5.png": {
       "ver": "1.0.4",
@@ -149,7 +178,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jb6.png": {
       "ver": "1.0.4",
@@ -171,7 +207,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "7d5c3": {
       "importer": "sprite-frame",
@@ -197,9 +240,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -230,9 +274,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -263,9 +308,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -296,9 +342,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -329,9 +376,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "272784ba-9a3f-4117-b12f-c89eb61214c4@6c48a",
-        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a"
+        "atlasUuid": "14ec3b9c-819a-4c78-81ad-0092c957476a",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"

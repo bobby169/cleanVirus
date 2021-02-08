@@ -2,12 +2,12 @@
   "ver": "4.0.21",
   "importer": "typescript",
   "imported": true,
-  "uuid": "1ae0d2ed-88f5-437d-960c-5c57799aeb47",
+  "uuid": "d9bcd538-5786-46d2-adda-0703bf82120b",
   "files": [],
   "subMetas": {},
   "userData": {
     "importAsPlugin": false,
-    "moduleId": "project:///assets/script/Logo.js",
+    "moduleId": "project:///assets/script/AirAutoPlay.js",
     "importerSettings": 7
   }
 }

@@ -32,9 +32,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -326,9 +327,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -359,9 +361,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -392,9 +395,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -425,9 +429,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -458,9 +463,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -491,9 +497,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -524,9 +531,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -557,9 +565,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c816a231-2b7c-4bf3-8c4c-df326a3434fa@6c48a",
-        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145"
+        "atlasUuid": "27523159-4f2b-4d4c-99e1-9ed5e2fb4145",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"

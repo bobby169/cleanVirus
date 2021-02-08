@@ -32,9 +32,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -65,9 +66,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -98,9 +100,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -131,9 +134,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -160,7 +164,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W1.png": {
       "ver": "1.0.4",
@@ -182,7 +193,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W2.png": {
       "ver": "1.0.4",
@@ -204,7 +222,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W3.png": {
       "ver": "1.0.4",
@@ -226,7 +251,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W4.png": {
       "ver": "1.0.4",
@@ -248,7 +280,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W5.png": {
       "ver": "1.0.4",
@@ -270,7 +309,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W6.png": {
       "ver": "1.0.4",
@@ -292,7 +338,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W7.png": {
       "ver": "1.0.4",
@@ -314,7 +367,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W8.png": {
       "ver": "1.0.4",
@@ -336,7 +396,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "Jishen_W9.png": {
       "ver": "1.0.4",
@@ -358,7 +425,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "dot_wave.png": {
       "ver": "1.0.4",
@@ -380,7 +454,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "glow.png": {
       "ver": "1.0.4",
@@ -402,7 +483,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jishen2.png": {
       "ver": "1.0.4",
@@ -424,7 +512,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jitou.png": {
       "ver": "1.0.4",
@@ -446,7 +541,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "jitou2.png": {
       "ver": "1.0.4",
@@ -468,7 +570,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon1.png": {
       "ver": "1.0.4",
@@ -490,7 +599,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon2.png": {
       "ver": "1.0.4",
@@ -512,7 +628,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon3.png": {
       "ver": "1.0.4",
@@ -534,7 +657,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon4.png": {
       "ver": "1.0.4",
@@ -556,7 +686,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon5.png": {
       "ver": "1.0.4",
@@ -578,7 +715,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon6.png": {
       "ver": "1.0.4",
@@ -600,7 +744,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray1.png": {
       "ver": "1.0.4",
@@ -622,7 +773,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray2.png": {
       "ver": "1.0.4",
@@ -644,7 +802,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray3.png": {
       "ver": "1.0.4",
@@ -666,7 +831,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray4.png": {
       "ver": "1.0.4",
@@ -688,7 +860,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray5.png": {
       "ver": "1.0.4",
@@ -710,7 +889,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "subWeapon_gray6.png": {
       "ver": "1.0.4",
@@ -732,7 +918,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "wing.png": {
       "ver": "1.0.4",
@@ -754,7 +947,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "wing2.png": {
       "ver": "1.0.4",
@@ -776,7 +976,14 @@
       "borderLeft": 0,
       "borderRight": 0,
       "spriteType": "normal",
-      "subMetas": {}
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
     },
     "034fb": {
       "importer": "sprite-frame",
@@ -802,9 +1009,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -835,9 +1043,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -868,9 +1077,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -901,9 +1111,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -934,9 +1145,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -967,9 +1179,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1000,9 +1213,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1033,9 +1247,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1066,9 +1281,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1099,9 +1315,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1132,9 +1349,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1165,9 +1383,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1198,9 +1417,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1231,9 +1451,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1264,9 +1485,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1297,9 +1519,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1330,9 +1553,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1363,9 +1587,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1396,9 +1621,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1429,9 +1655,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1462,9 +1689,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1495,9 +1723,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1528,9 +1757,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1561,9 +1791,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -1594,9 +1825,10 @@
         "borderRight": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "0e973e7a-2bfb-4319-8466-80aee4175fb7@6c48a",
-        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb"
+        "atlasUuid": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+        "packable": true
       },
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"

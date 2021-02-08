@@ -5,5 +5,11 @@
       "width": 900,
       "height": 1600
     }
-  }
+  },
+  "layer": [
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ]
 }
